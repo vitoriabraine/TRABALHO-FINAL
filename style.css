@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.lista{
+    background-color: blueviolet;
+    text-align: left;
+}
+
+.menu{
+    text-align: left;
+}
+.rodape{
+
+    text-align: center;
+    height: auto;
+    width: auto;
+}
